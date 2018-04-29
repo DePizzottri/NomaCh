@@ -1,0 +1,9 @@
+[submodule "libs/actor-framework"]
+	path = libs/actor-framework
+	url = https://github.com/DePizzottri/actor-framework.git
+[submodule "libs/restbed"]
+	path = libs/restbed
+	url = https://github.com/Corvusoft/restbed.git
+[submodule "libs/delta-enabled-crdts"]
+	path = libs/delta-enabled-crdts
+	url = https://github.com/DePizzottri/delta-enabled-crdts.git
