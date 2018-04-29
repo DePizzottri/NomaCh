@@ -1,3 +1,3 @@
 ## CAF Remoting module
 
-Для пояснения принципов пользовани см. [тесты](../tests/src/remoting.cpp)
+Для пояснения принципов пользования см. [тесты](../tests/src/remoting.cpp)

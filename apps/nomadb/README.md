@@ -1,4 +1,5 @@
-Example of eventual consistent CRDT-based database.
+## Example of eventual consistent CRDT-based database.
+
 Opertaes only with AWORSet CRTDs.
 Adds element to sets at random and replicate it across all nodes.
 

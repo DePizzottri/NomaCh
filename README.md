@@ -35,7 +35,7 @@ tg: depizzottri
 ```cmake -G "Visual Studio 14 2015 Win64" -DBOOST_ROOT:PATH=C:/lib/boost_1_62_0 -DBOOST_INCLUDEDIR:PATH=C:/local/boost_1_62_0/boost -DBOOST_LIBRARYDIR:PATH=C:/lib/boost_1_62_0/stage_x64/lib ..```
 Проекты для сборки и запуска: noma_tests, noma_http, noma_node_random_add, noma_peer_sampling, nomadb
 
-(поемуто не работает с  1.66)
+(почемуто не работает с 1.66)
 
 Сборка под Linux:
 

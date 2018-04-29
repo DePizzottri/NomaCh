@@ -44,6 +44,6 @@
 
 * С принципми работы этих модулей можно ознакомится в тестах [TCP](../tests/src/CAF_TCP_basic_tests.cpp) [remoting](../tests/src/remoting.cpp) [clustering](../tests/src/clustering.cpp).
 
-* Также приведены несколько демонстрационных приложений [node_random_add](../apps/node_random_add) и [nomadb](..apps/nomadb)
+* Также приведены несколько демонстрационных приложений [node_random_add](../apps/node_random_add) и [nomadb](../apps/nomadb)
 
 [Далее Консенсус](Consensus.md)
