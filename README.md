@@ -1,6 +1,6 @@
 # NomaCh (Noma_blockChain)
 
-Karama Hakaton project #0111
+Karama Hackathon project #0111
 
 Автор: Максим Скворцов
 
